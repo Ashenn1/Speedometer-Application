@@ -1,7 +1,7 @@
 # Simple Speedometer Application
 
 Simple application that measures speed using gps location , you set threshold at the start of the application &
- when the speed exceeds the threshold you get notified.
+ when the speed exceeds the threshold you get notified , nothin real fancy here.
 
 
 ![ScreenShot](https://github.com/Ashenn1/Speedometer-Application/tree/master/Images/Screenshot1.png)
