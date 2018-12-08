@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="set_threshold">Set Threshold</string>
+    <string name="title_activity_display_speed">DisplaySpeedActivity</string>
+    <string name="meter_second">Meter/Second</string>
+    <string name="speedThreshold">speed_threshold</string>
+</resources>
