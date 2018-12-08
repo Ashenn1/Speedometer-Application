@@ -4,6 +4,6 @@ Simple application that measures speed using gps location , you set threshold at
  when the speed exceeds the threshold you get notified.
 
 
-![alt text](https://github.com/Ashenn1/Speedometer-Application/tree/master/Images/Screenshot1.png)
+![ScreenShot](Screenshot1.png)
 ![alt text](https://github.com/Ashenn1/Speedometer-Application/tree/master/Images/Screenshot2.png)
 ![alt text](https://github.com/Ashenn1/Speedometer-Application/tree/master/Images/Screenshot3.png)
